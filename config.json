@@ -1,0 +1,7 @@
+{
+    "server_uuid": "your-server-uuid",
+    "external_server_ip": "your.external.server.ip",
+    "server_port": 8080,
+    "server_private_key": "your-server-private-key",
+    "websocket_uri": "wss://your-server-address/api/Gateway"
+}
